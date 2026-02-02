@@ -290,6 +290,25 @@ body {
     margin-bottom: 30px;
 }
 
+/* Signature and From Text */
+.signature {
+    display: block;
+    margin-top: 20px;
+    font-size: 1.3rem;
+    color: #ff1744;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.from-text {
+    font-size: 1.2rem;
+    color: #ff1744;
+    font-weight: 600;
+    margin-top: 10px;
+    font-style: italic;
+    opacity: 0.9;
+}
+
 /* Responsive Design */
 @media (max-width: 768px) {
     .container {
